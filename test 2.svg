@@ -1,0 +1,55 @@
+<!-- <svg width="350" height="340" viewBox="0 0 350 340" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="142.6 273.5 92.4 273.5 64 322 171 322 142.6 273.5" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <rect x="102" y="263" width="31" height="10" fill="none" stroke="#ccc" stroke-width="1"/>
+    <rect x="41" y="248" width="102" height="15" fill="none" stroke="#ccc" stroke-width="1"/>
+    <polyline points="186.8 200.4 277.9 25.7 296.8 12.3" fill="none" stroke="#ccc" stroke-width="1"/>
+    <polyline points="89.1 190.6 257 1.5 296.8 12.3 336.9 89" fill="none" stroke="#ccc" stroke-width="1"/>
+    <circle cx="338.4" cy="94.8" r="5.3" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line x1="338.4" y1="207.4" x2="338.4" y2="100.1" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path d="M332.5,228.4a8,8,0,0,0-.5,2.1,6.77,6.77,0,1,0,8.2-6.1,2.36,2.36,0,0,1-1.8-2.3h0v-5.2" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="1"/>
+    <circle cx="338.5" cy="212.7" r="4.2" fill="none" stroke="#0045d4" stroke-width="1"/>
+    <rect x="3" y="191" width="140" height="57" fill="none" stroke="#ccc" stroke-width="1"/>
+    <polygon points="193 201 193 242 179 263 143 263 143 197 193 201" fill="none" stroke="#ccc" stroke-width="1"/>
+    <polygon points="185 243 175 258 160 258 160 243 185 243" fill="none" stroke="#0045d4" stroke-width="1"/>
+    <rect x="160" y="209" width="26" height="28" fill="none" stroke="#0045d4" stroke-width="1"/>
+    <polyline points="220.2 135.2 139.8 135.2 170.8 199.1" fill="none" stroke="#ccc" stroke-width="1"/>
+    <rect x="57" y="322" width="120" height="17" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="1"/>
+    <line x1="257" y1="1.5" x2="334" y2="90.7" fill="none" stroke="#ccc" stroke-width="1"/>
+</svg> -->
+
+<svg width="1233" height="1265" viewBox="0 0 1233 1265" opacity="0.5" xmlns="http://www.w3.org/2000/svg">
+    <line  x1="353.5" y1="74.5" x2="353.5" y2="1265.5"  stroke="#ccc" stroke-width="1" />
+    <line  x1="458" y1="74.5" x2="458" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="442" y1="74.5" x2="442" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="370" y1="74.5" x2="370" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="539" y1="74.5" x2="539" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="658" y1="74.5" x2="658" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="750" y1="74.5" x2="750" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="829" y1="74.5" x2="829" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="845" y1="74.5" x2="845" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="891" y1="74.5" x2="891" y2="1265.5" stroke="#ccc" stroke-width="1" />
+    <line  x1="-261" y1="68" x2="931.28" y2="1094.55" stroke="#ccc" stroke-width="1" />
+    <line  x1="-249" y1="56" x2="943.28" y2="1082.55" stroke="#ccc" stroke-width="1" />
+    <line  x1="275.46" y1="-145.89" x2="930.82" y2="1284.44" stroke="#ccc" stroke-width="1" />
+    <line  x1="292.46" y1="-145.89" x2="947.82" y2="1284.44" stroke="#ccc" stroke-width="1" />
+    <line  x1="419.46" y1="-145.89" x2="1074.82" y2="1284.44" stroke="#ccc" stroke-width="1" />
+    <line  x1="402.46" y1="-145.89" x2="1057.82" y2="1284.44" stroke="#ccc" stroke-width="1" />
+    <circle  cx="539" cy="631" r="40" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ddd" stroke-width="2" />
+    <circle  cx="539" cy="631" r="55" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ddd" stroke-width="2" />
+    <circle  cx="539" cy="631" r="81" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ddd" stroke-width="2" />
+    <circle  cx="539" cy="631" r="185" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ddd" stroke-width="2" />
+    <line  x1="1079.82" y1="-145.89" x2="424.46" y2="1284.44" stroke="#ccc" stroke-width="1" />
+    <line  x1="1091.32" y1="-133.39" x2="435.96" y2="1296.94" stroke="#ccc" stroke-width="1" />
+    <line  x1="1039.82" y1="-145.89" x2="384.46" y2="1284.44" stroke="#ccc" stroke-width="1" />
+    <line  x1="1021.82" y1="-145.89" x2="366.46" y2="1284.44" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="687" x2="-0.5" y2="687" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="745" x2="-0.5" y2="745" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="816" x2="-0.5" y2="816" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="670" x2="-0.5" y2="670" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="660" x2="-0.5" y2="660" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="643" x2="-0.5" y2="643" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="575" x2="-0.5" y2="575" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="516" x2="-0.5" y2="516" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="446" x2="-0.5" y2="446" stroke="#ccc" stroke-width="1" />
+    <line  x1="1190.5" y1="611" x2="-0.5" y2="611" stroke="#ccc" stroke-width="1" />
+</svg>
